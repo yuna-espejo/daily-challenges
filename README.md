@@ -3,7 +3,7 @@
 > Un desafío de programación al día — mix de algoritmos y mini proyectos en Python.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
-![Challenges](https://img.shields.io/badge/Challenges-0-brightgreen?style=flat-square)
+![Challenges](https://img.shields.io/badge/Challenges-1-brightgreen?style=flat-square)
 ![Last update](https://img.shields.io/badge/Updated-30%20May%202026-lightgrey?style=flat-square)
 
 ---
@@ -12,7 +12,7 @@
 
 | Total | ⚙️ Algoritmos | 🛠️ Proyectos | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **0** | 0 | 0 | 0 | 0 | 0 |
+| **1** | 1 | 0 | 1 | 0 | 0 |
 
 ---
 
@@ -33,13 +33,13 @@ daily-challenges/
 
 | Día | Nombre | Dificultad | Tiempo | Tags |
 |:---:|---|:---:|:---:|---|
-| — | *Aún no hay desafíos. ¡Empieza hoy!* | — | — | — |
+| 001 | ⚙️ [Two Sum](algorithms\day1-30052026.py) | 🟢 Easy | ?? min | #arrays #hashmap |
 
 ---
 
 ## 🏷️ Tags más usados
 
-*Sin tags aún*
+`#arrays` ×1 `#hashmap` ×1
 
 ---
 
