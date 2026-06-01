@@ -3,8 +3,8 @@
 > Un desafío de programación al día — mix de algoritmos y mini proyectos en Python.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
-![Challenges](https://img.shields.io/badge/Challenges-2-brightgreen?style=flat-square)
-![Last update](https://img.shields.io/badge/Updated-31%20May%202026-lightgrey?style=flat-square)
+![Challenges](https://img.shields.io/badge/Challenges-3-brightgreen?style=flat-square)
+![Last update](https://img.shields.io/badge/Updated-01%20Jun%202026-lightgrey?style=flat-square)
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Total | ⚙️ Algoritmos | 🛠️ Proyectos | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **2** | 2 | 0 | 2 | 0 | 0 |
+| **3** | 2 | 1 | 3 | 0 | 0 |
 
 ---
 
@@ -35,12 +35,13 @@ daily-challenges/
 |:---:|---|:---:|:---:|---|
 | 001 | ⚙️ [Two Sum](algorithms\day1-30052026.py) | 🟢 Easy | 35 min | #arrays #hashmap |
 | 002 | ⚙️ [Invertir una cadena](algorithms\day2-31052026.py) | 🟢 Easy | 15 min | #strings #two-pointers |
+| 003 | 🛠️ [CLI de conversión de divisas](mini_projects\day3-01062026.py) | 🟢 Easy | 25 min | #cli-tool #api |
 
 ---
 
 ## 🏷️ Tags más usados
 
-`#arrays` ×1 `#hashmap` ×1 `#strings` ×1 `#two-pointers` ×1
+`#arrays` ×1 `#hashmap` ×1 `#strings` ×1 `#two-pointers` ×1 `#cli-tool` ×1 `#api` ×1
 
 ---
 
@@ -73,4 +74,4 @@ def solucion():
 
 ---
 
-*⚡ README autogenerado por `update_readme.py` · 31 May 2026*
+*⚡ README autogenerado por `update_readme.py` · 01 Jun 2026*
