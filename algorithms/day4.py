@@ -1,6 +1,6 @@
 # Day 004 — Número válido de palíndromo
 # Difficulty: Easy | Type: Algorithm
-# Time: ?? min | Tags: #strings #two-pointers
+# Time: 20 min | Tags: #strings #two-pointers
 # Source: LeetCode 125
 # ─────────────────────────────────
 # Determina si una frase es palíndromo ignorando espacios,
