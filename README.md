@@ -3,8 +3,8 @@
 > Un desafío de programación al día — mix de algoritmos y mini proyectos en Python.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
-![Challenges](https://img.shields.io/badge/Challenges-4-brightgreen?style=flat-square)
-![Last update](https://img.shields.io/badge/Updated-06%20Jun%202026-lightgrey?style=flat-square)
+![Challenges](https://img.shields.io/badge/Challenges-7-brightgreen?style=flat-square)
+![Last update](https://img.shields.io/badge/Updated-10%20Jun%202026-lightgrey?style=flat-square)
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Total | ⚙️ Algoritmos | 🛠️ Proyectos | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **4** | 3 | 1 | 4 | 0 | 0 |
+| **7** | 4 | 3 | 5 | 1 | 1 |
 
 ---
 
@@ -36,13 +36,16 @@ daily-challenges/
 | 001 | ⚙️ [Two Sum](algorithms\day1.py) | 🟢 Easy | 35 min | #arrays #hashmap |
 | 002 | ⚙️ [Invertir una cadena](algorithms\day2.py) | 🟢 Easy | 15 min | #strings #two-pointers |
 | 003 | 🛠️ [CLI de conversión de divisas](mini_projects\day3.py) | 🟢 Easy | 25 min | #cli-tool #api |
-| 004 | ⚙️ [Número válido de palíndromo](algorithms\day4.py) | 🟢 Easy | ?? min | #strings #two-pointers |
+| 004 | ⚙️ [Número válido de palíndromo](algorithms\day4.py) | 🟢 Easy | 20 min | #strings #two-pointers |
+| 005 | 🛠️ [Generador de contraseñas](mini_projects\day5.py) | 🟢 Easy | 28 min | #cli-tool #automation |
+| 006 | ⚙️ [Máximo en una ventana deslizante](algorithms\day6.py) | 🔴 Hard | 40 min | #arrays #queue |
+| 007 | 🛠️ [Scraper de noticias tech](mini_projects\day7.py) | 🟡 Medium | 35 min | #api #file-io #automation |
 
 ---
 
 ## 🏷️ Tags más usados
 
-`#strings` ×2 `#two-pointers` ×2 `#arrays` ×1 `#hashmap` ×1 `#cli-tool` ×1 `#api` ×1
+`#arrays` ×2 `#strings` ×2 `#two-pointers` ×2 `#cli-tool` ×2 `#api` ×2 `#automation` ×2 `#hashmap` ×1 `#queue` ×1
 
 ---
 
@@ -75,4 +78,4 @@ def solucion():
 
 ---
 
-*⚡ README autogenerado por `update_readme.py` · 06 Jun 2026*
+*⚡ README autogenerado por `update_readme.py` · 10 Jun 2026*
