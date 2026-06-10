@@ -34,6 +34,10 @@ def parse_file(path: Path) -> dict | None:
     except Exception:
         return None
 
+    # Ignorar archivos que no son desafíos (ej: __init__.py, utils)
+    if "# Day" not in text[:500]:
+        return None
+
     header = "\n".join(text.splitlines()[:10])
     data = {}
     for key, pat in HEADER_PATTERN.items():
